@@ -55,9 +55,6 @@
   <a href="mailto:ccodingpy0825@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
-  <a href="https://www.linkedin.com/in/cha-horim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
 </p>
 
 ---
