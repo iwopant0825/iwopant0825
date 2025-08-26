@@ -10,7 +10,7 @@
 - **ReactJS · React Native · NextJS · figma** 를 활용한 인터랙티브 웹 제작
 ---
 
-### ⚡ Tech Stack
+### Tech Stack
 <p>
   <!-- Core -->
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
