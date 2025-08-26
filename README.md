@@ -1,16 +1,13 @@
 <!-- 프로필 README (cha-horim/cha-horim) -->
 
-<h2 align="center"> Hi, I'm Horim</h2>
-<p align="center">프론트엔드 개발자 | Interactive Web 경험 설계</p>
+<h2 align="center">성장하는 개발자 차호림</h2>
+<p align="center">프론트엔드 개발자 | Interactive Web Developer</p>
 
 ---
 
 ### About Me
 - 사용자 경험을 최우선으로 생각하는 **프론트엔드 개발자**
-- **React · Three.js · Tailwind** 를 활용한 인터랙티브 웹 제작
-- 동아리 리더 경험을 통해 **협업/기획 능력** 강화
-- 새로운 기술을 배우고 **실무에 적용**하는 것에 흥미
-
+- **ReactJS · React Native · NextJS · figma** 를 활용한 인터랙티브 웹 제작
 ---
 
 ### ⚡ Tech Stack
@@ -35,13 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cha-horim&show_icons=true&theme=radical&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cha-horim&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
-
----
-
-### Featured Projects
--  [**LAUM 3D Web**](#) — 동아리 홍보용 인터랙티브 3D 웹사이트
--  [**React Native App**](#) — 간단한 생활 편의 앱
--  [**Portfolio Site**](#) — 나만의 개발 포트폴리오 웹사이트
 
 ---
 
