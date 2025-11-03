@@ -40,13 +40,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
----
-
-### GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iwopant0825&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwopant0825&layout=compact&theme=radical&hide_border=true" height="150"/>
-</p>
 
 ---
 
