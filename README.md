@@ -14,20 +14,6 @@
 
 ---
 
-## Selected Public Projects
-
-- [antMysite](https://github.com/iwopant0825/antMysite) — 3D personal portfolio site built with React, Vite, Three.js, React Three Fiber, and Framer Motion.
-- [Wakelock](https://github.com/iwopant0825/Wakelock) — Next.js/TypeScript web tool that keeps screens awake with the Wake Lock API and fallback behavior.
-- [LocalPrice](https://github.com/iwopant0825/LocalPrice) — React Native/Expo prototype for nearby store price comparison, favorites, barcode scanning, and price alerts.
-- [naming](https://github.com/iwopant0825/naming) — Next.js developer tool that turns Korean intent into English variable, function, and component names.
-- [saveTTT](https://github.com/iwopant0825/saveTTT) — Next.js savings calculator for telecom, electricity, loans, and subscriptions with interactive cost comparisons.
-- [Climation](https://github.com/iwopant0825/Climation) — React Three Fiber climate-crisis education metaverse with an interactive 3D Earth and scenario navigation.
-- [MuseumCBG](https://github.com/iwopant0825/MuseumCBG) — React Three Fiber 3D museum walkthrough with first-person controls, Rapier physics, and optimized rendering.
-- [GRTI](https://github.com/iwopant0825/GRTI) — React/TypeScript recycling-awareness game prototype for finding GR-certified products in a virtual home.
-- [LAUM](https://github.com/iwopant0825/LAUM) — Responsive React/Vite website for a Sunrin illustration club with gallery, curriculum, recruitment, and animations.
-
----
-
 ## Tech Stack
 
 **Frontend**
